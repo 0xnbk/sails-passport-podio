@@ -14,7 +14,7 @@
 7. In the `config/podio.js` replace `PODIO_CLIENT_ID` and `PODIO_CLIENT_SECRET` with the generated keys
 8. Configure MongoDB settings in `config/adapters.js`
 9. `sails lift`
-10. Open `http://localhost:1337` in your favorite browser
+10. Open `http://localhost:1337/login` in your favorite browser
 
 ## License
 
